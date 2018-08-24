@@ -1,0 +1,19 @@
+body{
+	background-color: #2196f3;
+
+}
+
+#relogio{
+	margin: auto;
+	text-align: center;
+	font-family: font-family: 'Anton', sans-serif;
+	font-size: 100px;
+	margin-top: 20%;
+	color: white;
+}
+#frase{
+	margin:auto;
+	text-align: center;
+	font-family: sans-serif; 
+	color: white;
+}
