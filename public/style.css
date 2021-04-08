@@ -1,19 +1,41 @@
-body{
-	background-color: #2196f3;
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
 
+body{
+	background-color: #00DED2;
 }
 
 #relogio{
 	margin: auto;
 	text-align: center;
-	font-family: font-family: 'Anton', sans-serif;
-	font-size: 50px;
+	font-family: 'Anton', sans-serif;
+	font-size: 100px;
 	margin-top: 20%;
 	color: white;
 }
+
 #frase{
 	margin:auto;
+	font-size: 20px;
 	text-align: center;
 	font-family: sans-serif; 
 	color: white;
+}
+
+.frase{
+	margin:auto;
+	font-size: 20px;
+	text-align: center;
+	font-family: sans-serif; 
+	color: white;
+}
+
+#desafio {
+	height: 100vh;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
 }
